@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The captain's ghost appearing to the count</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80032</idno>
+            <idno type="STC">Wing C487A</idno>
+            <idno type="STC">ESTC R232003</idno>
+            <idno type="EEBO-CITATION">99897791</idno>
+            <idno type="PROQUEST">99897791</idno>
+            <idno type="VID">133328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80032)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133328)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2526:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The captain's ghost appearing to the count</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for H. Jones,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thynne, Thomas, 1648-1682 --  Early works to 1800.</term>
+               <term>Vratz, Christopher, d. 1682 --  Early works to 1800.</term>
+               <term>Robbery --  England --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:133328:1" rendition="simple:additions"/>
+            <head>THE Captain's Ghoſt Appearing to the COUNT.</head>
+            <p>BLeſs me! what Horrid and Diſmal ſhade is this, that dares preſume to enter my Chamber, and not only diſturb my Peace, but thus continually hinders my Reſt? What ſhall I do? this bold Ghoſt affrights and terrifies my Soul more, than all the dangers of War, when Death marches in Triumph upon the Swords Point, and breaths forth dire Threatnings from the Thundering Musket, and the Roaring Cannon. Whoſe Ghoſt are you? are you the Ghoſt of Mr. <hi>Thynne,</hi> or of my old Companion Captain <hi>
+                  <g ref="char:V">Ʋ</g>ratz,</hi> or any other who have Murdered, or been Murdered upon my account?</p>
+            <p>Know Sir, That I am the miſerable Ghoſt of <hi>Chriſtopher <g ref="char:V">Ʋ</g>ratz,</hi> who was ſo unfortunate to be prevailed upon by you, to Murther a poor inno<g ref="char:EOLhyphen"/>cent Gentleman, who never had wronged or injured either my ſelf or you, and that in the moſt Barbarous and Cowardly manner imaginable. Oh Curſed wretch that you were, to make your Countenance &amp; Favour, and the hopes of being preferred by you, Arguments to perſwade me to ruine both my Soul and Body, and all this to be done, to gratifie your deviliſh Revenge, and ſatiate your wicked and helliſh thirſt after Innocent Blood. And although out of an affected Bravery, I obſtinately denied you were any way guilty of that Barbarous Fact, yet without my appearance, your Conſcience muſt tell you, That it was you that Contrived it, it was you that procured it to be done, it was you that incouraged it by Promiſes of Preſent Pay, and future Gratuities; you know this was the thing you carried me over for; you know the <hi>Polander</hi> and <hi>Sterne</hi> were both entertained by your direction, to aſſiſt me in the accompliſhing your Wicked and Bloody Contrivance. And notwithſtanding all the time of my Impriſonment, nay, even the time that I were to draw my laſt breath, I appeared with ſuch Unconcernedneſs, and took all care not to let fall any one word that might prejudice you, or ſtain your Honour, or wound your Reputation, and make your Countrymen, as well as the <hi>Engliſh</hi> abo<g ref="char:EOLhyphen"/>minate and ſhun the Company of ſo baſe and ungentile a Murtherer:
+<pb n="2" facs="tcp:133328:2"/>and paſſed out of the World as much like an Atheiſt as I lived in it; and to ſhow the greatneſs of my pretended Heroick Reſolution and Con<g ref="char:EOLhyphen"/>ſtancy, took the whole Guilt and Odium of the Murther upon my ſelf, yet you were as Guilty of it, nay, more Guilty then I; and therefore know, that although you have eſcaped that Ignominious Death, which you as well as I juſtly deſerved, yet you ſhall always carry about you a ſting in your Boſome, as bad or worſe than Death itſelf; and your Guiltie Conſcience by a perpetual reading an Indictment of Murther to you, ſhall be inſtead of a thouſand Tormenters, to make you as miſerable in your Life, as the Murthered Gentleman was unfortunate in his Death. In a word, you ſhall be a Terror to your ſelf, be afraid of your own ſhadow; and notwithſtanding your former Courage and Val<g ref="char:EOLhyphen"/>lour, yet now you ſhall become as timerous and fearful as the ſilly Hare, and flee at every noiſe, and tremble at the ſhaking leaf; and your mind ſhall be ſo diſturbed and perplexed, that you ſhall always fancie the Ghoſt of me, or the Murthered Gentleman to appear to you, and haunt you into all places and company that you frequent, and not only ſpoil the pleaſure of your Recreations by day, but when you retire to your Chamber, we will follow you thither to, and be within the ſame Cur<g ref="char:EOLhyphen"/>tains, and lie in the ſame Bed with you. Nor ſhall the contrivance of your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oks, nor the ſtrength of your Bars, or the cloſeneſs of your Cur<g ref="char:EOLhyphen"/>tains, be able to keep out this affrightning Ghoſt. And that which ſhall yet further heighten your miſery, and render Life it ſelf a burthen to you, is, the conſideration that you have contracted the Guilt, and brought the Odium of one of the baſeſt and moſt inhumanſt Murthers that ever was committed, upon your ſelf and Family, not only without any kind of provokation, but alſo enjoying any kind of benefit thereby; for you may aſſure your ſelf, you ſhall never obtain the unjuſt end you aimed at. Neither will all your endeavours or greatneſs be able to reconcile, for — is too Vertuous to Marry one ſo juſtly ſuſpected of Murther, and too wiſe to believe you Innocent.</p>
+            <p>And to make you yet more compleatly miſerable, ſo as that it may bear ſome proportion with the guilt of the Murther, I will for ever be your conſtant Companion and Tormentor, and inſtead of being a Comforter, I will make appear to you nothing but Horror and Dread. I will Haunt and Torment you in all your intended Divertiſements, in your Viſits and your Feaſts, your Cloſet and your Bed; I will imbitter all your enjoy<g ref="char:EOLhyphen"/>ments; I'll make you uncapable of taking any pleaſure in your great Relations, or your large Poſſeſſions, your full Coffers, or your Honou<g ref="char:EOLhyphen"/>rable Titles, your ſtately Buildings, or your curious Gardens. I will be continually ſounding in your Ears, the diſmal Horrors, and unexpreſſa<g ref="char:EOLhyphen"/>ble Torments I ſuffer for your ſake; and never hope that you ſhall be rid of my Company, for I will haunt you as long as you live on earth, and then to the Grave, that if you are doomed to bear company with Murderers and Adulterers, I may there, if poſſible, farther Torment you.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>H. Jones.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
